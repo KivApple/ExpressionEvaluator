@@ -8,7 +8,7 @@ has no direct practical value.
 | `id.pineapple.expression.evaluator`       | The main package of the project                                                                                    |
 | `id.pineapple.expression.evaluator.lexer` | Source text container and tokenizer                                                                                |
 | `id.pineapple.expression.evaluator.v1`    | Basic version of parser and evaluators. Supports integer numbers and five binary operators (+ - * / %)             |
-| `id.pineapple.expression.evaluator.v2`    | Advanced version of parser and evaluator based of basic version. Added support for unary plus and minus and braces |
+| `id.pineapple.expression.evaluator.v2`    | Advanced version of parser and evaluators based on basic version. Added support for unary plus and minus and braces |
 
 This project shows two kinds of extensibility of the final tagless style:
 
